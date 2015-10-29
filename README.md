@@ -14,6 +14,10 @@ little more about Chatham and our Technology Team.
 
 1. All theme modifications take place under the `themes/hyde` folder.
 
+  ```bash
+  $> cd themes/hyde
+  ```
+
 1. Create a new post:
 
   ```bash
