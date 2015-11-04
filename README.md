@@ -12,10 +12,12 @@ $> sudo npm install -g hugo
 
 ## Contributing
 
-1. Pull down the repo:
+1. Fork this repo.
+
+1. Pull down the forked repo:
 
   ```bash
-  $> git clone --recursive git@github.com:Chatham/rodeo && cd rodeo
+  $> git clone --recursive git@github.com:<YOUR_GITHUB_USERNAME>/rodeo && cd rodeo
   ```
 
 1. All theme modifications take place under the `themes/hyde` folder.
