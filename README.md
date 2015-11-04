@@ -4,6 +4,12 @@ Born out of our sponsorship and involvement in Delaware Innovation Week 2015,
 we launched this site in order to help get the technology community to know a
 little more about Chatham and our Technology Team.
 
+## Install Hugo
+
+```bash
+$> sudo npm install -g hugo
+```
+
 ## Contributing
 
 1. Pull down the repo:
