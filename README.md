@@ -34,5 +34,4 @@ $> sudo npm install -g hugo
   $> hugo new post/[your_post_name_here].md
   ```
 
-1. All changes should be made to your own fork and pushed through via a pull
-   request to the `master` branch.
+1. Submit a pull request to the `master` branch from your fork. All comments and editing should take place through the pull request issue. 
