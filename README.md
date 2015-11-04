@@ -6,6 +6,8 @@ little more about Chatham and our Technology Team.
 
 ## Install Hugo
 
+Make sure you have [Node.js](https://nodejs.org/en/download/) installed.
+
 ```bash
 $> sudo npm install -g hugo
 ```
